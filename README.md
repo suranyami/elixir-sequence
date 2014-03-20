@@ -1,3 +1,4 @@
-# Sequence
+elixir-sequence
+===============
 
-** TODO: Add description **
+Following the PragProg Elixir book.
